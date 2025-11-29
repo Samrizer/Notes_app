@@ -18,4 +18,10 @@ If you are developing a production application, we recommend using TypeScript wi
 ## 📌 Notes App UI  
 ## Here is how my Notes App looks ⬇️ 
 
-<img width="1919" height="865" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/c2bb8774-7c66-40b8-9223-6ee2c0cbbe3b" />
+<img width="1919" height="865" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/c2bb8774-7c66-40b8-9223-6ee2c0cbbe3b" /> 
+
+
+
+
+https://github.com/user-attachments/assets/6e4128ba-406d-498b-a149-2f062b4e2759
+
